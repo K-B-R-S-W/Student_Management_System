@@ -1,0 +1,4 @@
+server=localhost
+database=lms
+userid=root
+password=your_password

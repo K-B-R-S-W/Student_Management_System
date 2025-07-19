@@ -1,0 +1,88 @@
+C:\Users\user\source\repos\Student_man\Student_man\bin\Debug\net8.0-windows\Student_man.exe
+C:\Users\user\source\repos\Student_man\Student_man\bin\Debug\net8.0-windows\Student_man.deps.json
+C:\Users\user\source\repos\Student_man\Student_man\bin\Debug\net8.0-windows\Student_man.runtimeconfig.json
+C:\Users\user\source\repos\Student_man\Student_man\bin\Debug\net8.0-windows\Student_man.dll
+C:\Users\user\source\repos\Student_man\Student_man\bin\Debug\net8.0-windows\Student_man.pdb
+C:\Users\user\source\repos\Student_man\Student_man\obj\Debug\net8.0-windows\Student_man.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Student_man\Student_man\obj\Debug\net8.0-windows\Student_man.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Student_man\Student_man\obj\Debug\net8.0-windows\Student_man.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Student_man\Student_man\obj\Debug\net8.0-windows\Student_man.AssemblyInfo.cs
+C:\Users\user\source\repos\Student_man\Student_man\obj\Debug\net8.0-windows\Student_man.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Student_man\Student_man\obj\Debug\net8.0-windows\Student_man.dll
+C:\Users\user\source\repos\Student_man\Student_man\obj\Debug\net8.0-windows\refint\Student_man.dll
+C:\Users\user\source\repos\Student_man\Student_man\obj\Debug\net8.0-windows\Student_man.pdb
+C:\Users\user\source\repos\Student_man\Student_man\obj\Debug\net8.0-windows\Student_man.genruntimeconfig.cache
+C:\Users\user\source\repos\Student_man\Student_man\obj\Debug\net8.0-windows\ref\Student_man.dll
+C:\Users\user\source\repos\Student_man\Student_man\obj\Debug\net8.0-windows\Student_man.Createacc.resources
+C:\Users\user\source\repos\Student_man\Student_man\obj\Debug\net8.0-windows\Student_man.Login.resources
+C:\Users\user\source\repos\Student_man\Student_man\obj\Debug\net8.0-windows\Student_man.Properties.Resources.resources
+C:\Users\user\source\repos\Student_man\Student_man\obj\Debug\net8.0-windows\Student_man.Reg.resources
+C:\Users\user\source\repos\Student_man\Student_man\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\user\source\repos\Student_man\Student_man\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\user\source\repos\Student_man\Student_man\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\user\source\repos\Student_man\Student_man\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\source\repos\Student_man\Student_man\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\user\source\repos\Student_man\Student_man\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\user\source\repos\Student_man\Student_man\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\user\source\repos\Student_man\Student_man\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\user\source\repos\Student_man\Student_man\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\user\source\repos\Student_man\Student_man\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\user\source\repos\Student_man\Student_man\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\user\source\repos\Student_man\Student_man\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\user\source\repos\Student_man\Student_man\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\user\source\repos\Student_man\Student_man\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\user\source\repos\Student_man\Student_man\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\user\source\repos\Student_man\Student_man\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\user\source\repos\Student_man\Student_man\obj\Debug\net8.0-windows\Student_man.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Student_man\Student_man\obj\Debug\net8.0-windows\Student_.D1300B67.Up2Date
+C:\Users\DEATHSEC\Desktop\CODE - WORK\Student_man\Student_man\bin\Debug\net8.0-windows\Student_man.exe
+C:\Users\DEATHSEC\Desktop\CODE - WORK\Student_man\Student_man\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\DEATHSEC\Desktop\CODE - WORK\Student_man\Student_man\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\DEATHSEC\Desktop\CODE - WORK\Student_man\Student_man\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\DEATHSEC\Desktop\CODE - WORK\Student_man\Student_man\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\DEATHSEC\Desktop\CODE - WORK\Student_man\Student_man\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\DEATHSEC\Desktop\CODE - WORK\Student_man\Student_man\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\DEATHSEC\Desktop\CODE - WORK\Student_man\Student_man\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\DEATHSEC\Desktop\CODE - WORK\Student_man\Student_man\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\DEATHSEC\Desktop\CODE - WORK\Student_man\Student_man\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\DEATHSEC\Desktop\CODE - WORK\Student_man\Student_man\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\DEATHSEC\Desktop\CODE - WORK\Student_man\Student_man\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\DEATHSEC\Desktop\CODE - WORK\Student_man\Student_man\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\DEATHSEC\Desktop\CODE - WORK\Student_man\Student_man\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\DEATHSEC\Desktop\CODE - WORK\Student_man\Student_man\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\DEATHSEC\Desktop\CODE - WORK\Student_man\Student_man\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\DEATHSEC\Desktop\CODE - WORK\Student_man\Student_man\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\DEATHSEC\Desktop\CODE - WORK\Student_man\Student_man\obj\Debug\net8.0-windows\Student_man.csproj.AssemblyReference.cache
+C:\Users\DEATHSEC\Desktop\CODE - WORK\Student_man\Student_man\obj\Debug\net8.0-windows\Student_man.Createacc.resources
+C:\Users\DEATHSEC\Desktop\CODE - WORK\Student_man\Student_man\obj\Debug\net8.0-windows\Student_man.Login.resources
+C:\Users\DEATHSEC\Desktop\CODE - WORK\Student_man\Student_man\obj\Debug\net8.0-windows\Student_man.Properties.Resources.resources
+C:\Users\DEATHSEC\Desktop\CODE - WORK\Student_man\Student_man\obj\Debug\net8.0-windows\Student_man.Reg.resources
+C:\Users\DEATHSEC\Desktop\CODE - WORK\Student_man\Student_man\obj\Debug\net8.0-windows\Student_man.csproj.GenerateResource.cache
+C:\Users\DEATHSEC\Desktop\CODE - WORK\Student_man\Student_man\obj\Debug\net8.0-windows\Student_man.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEATHSEC\Desktop\CODE - WORK\Student_man\Student_man\obj\Debug\net8.0-windows\Student_man.AssemblyInfoInputs.cache
+C:\Users\DEATHSEC\Desktop\CODE - WORK\Student_man\Student_man\obj\Debug\net8.0-windows\Student_man.AssemblyInfo.cs
+C:\Users\DEATHSEC\Desktop\CODE - WORK\Student_man\Student_man\obj\Debug\net8.0-windows\Student_man.csproj.CoreCompileInputs.cache
+C:\Users\DEATHSEC\Desktop\CODE - WORK\Student_man\Student_man\obj\Debug\net8.0-windows\Student_.D1300B67.Up2Date
+C:\Users\DEATHSEC\Desktop\CODE - WORK\Student_man\Student_man\obj\Debug\net8.0-windows\Student_man.dll
+C:\Users\DEATHSEC\Desktop\CODE - WORK\Student_man\Student_man\obj\Debug\net8.0-windows\refint\Student_man.dll
+C:\Users\DEATHSEC\Desktop\CODE - WORK\Student_man\Student_man\obj\Debug\net8.0-windows\Student_man.pdb
+C:\Users\DEATHSEC\Desktop\CODE - WORK\Student_man\Student_man\bin\Debug\net8.0-windows\Student_man.deps.json
+C:\Users\DEATHSEC\Desktop\CODE - WORK\Student_man\Student_man\bin\Debug\net8.0-windows\Student_man.runtimeconfig.json
+C:\Users\DEATHSEC\Desktop\CODE - WORK\Student_man\Student_man\bin\Debug\net8.0-windows\Student_man.dll
+C:\Users\DEATHSEC\Desktop\CODE - WORK\Student_man\Student_man\bin\Debug\net8.0-windows\Student_man.pdb
+C:\Users\DEATHSEC\Desktop\CODE - WORK\Student_man\Student_man\obj\Debug\net8.0-windows\Student_man.genruntimeconfig.cache
+C:\Users\DEATHSEC\Desktop\CODE - WORK\Student_man\Student_man\obj\Debug\net8.0-windows\ref\Student_man.dll
+C:\Users\DEATHSEC\Desktop\CODE - WORK\Student_man\Student_man\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\DEATHSEC\Desktop\CODE - WORK\Student_man\Student_man\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\DEATHSEC\Desktop\CODE - WORK\Student_man\Student_man\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\DEATHSEC\Desktop\CODE - WORK\Student_man\Student_man\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\DEATHSEC\Desktop\CODE - WORK\Student_man\Student_man\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\DEATHSEC\Desktop\CODE - WORK\Student_man\Student_man\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\DEATHSEC\Desktop\CODE - WORK\Student_man\Student_man\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\DEATHSEC\Desktop\CODE - WORK\Student_man\Student_man\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\DEATHSEC\Desktop\CODE - WORK\Student_man\Student_man\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\DEATHSEC\Desktop\CODE - WORK\Student_man\Student_man\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\DEATHSEC\Desktop\CODE - WORK\Student_man\Student_man\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\DEATHSEC\Desktop\CODE - WORK\Student_man\Student_man\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\DEATHSEC\Desktop\CODE - WORK\Student_man\Student_man\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DEATHSEC\Desktop\CODE - WORK\Student_man\Student_man\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
